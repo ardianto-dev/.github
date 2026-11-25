@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/afviardianto/.github/refs/heads/main/ardianto.png" alt="ardianto" width="120" />
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=30&pause=1000&color=A32F8C&width=599&lines=%F0%9F%91%8B+Hello%2C+I%E2%80%99m+Afvi+Ardianto!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=30&pause=1000&color=A32F8C&width=599&lines=%F0%9F%91%8B+Hello%2C+I%E2%80%99m+Ardianto!" alt="Typing SVG" /></a>
 </div>
 
 # 💫 About Me:
